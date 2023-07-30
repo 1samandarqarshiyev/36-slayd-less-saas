@@ -1,0 +1,62 @@
+
+// sass style.scss  style.css    ishlayotgan papkaga "cmd" orqali yoziladi
+
+
+
+// $font-stack: Helvetica, sans-serif;
+// $primary-color: #333;
+// $color: red;
+
+// body {
+//     font: 100% $font-stack;
+//     color: $color;
+// }
+
+
+
+
+// @mixin reset-list{
+//     margin: 0;
+//     padding: 0;
+//     list-style: none;
+// }
+
+// @mixin horizontal-list{
+//     @include reset-list;
+
+//     li{
+//         display: inline-block;
+//         margin: {
+//             left: 2px;
+//             right: 4px;
+//         }
+//     }
+// }
+
+// nav ul{
+//     @include horizontal-list;
+// }
+
+
+
+
+// // foundation/_code.scss
+// code{
+//     padding: .25em;
+//     line-height: 0;
+// }  
+
+// // foundation/_lists.scss
+// ul, ol {
+//     text-align: left;
+
+//     & & {
+//         padding: {
+//             bottom: 0;
+//             left: 0;
+//         }
+//     }
+// }
+
+
+
